@@ -1,3 +1,6 @@
+#############
+## Command ##
+#############
 1. create branch
 git branch <name>
 
@@ -15,3 +18,13 @@ git checkout
 
 6. commit & push
 git commit; git push
+
+
+###########
+## Notes ##
+###########
+1. it will remind you before git commit, when local repository checking new
+file.
+
+2. When you edit a file, you need execeuting "git add <file_name>" before you
+commit.
