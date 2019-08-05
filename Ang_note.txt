@@ -1,2 +1,17 @@
 1. create branch
 git branch <name>
+
+2. Delete branch
+git branch -d <branch>
+
+3. Update local repository from server
+git pull
+
+4. Update version to which you want
+git checkout <branch_name, or change_set>
+
+5. Update version to the lastest ont
+git checkout
+
+6. commit & push
+git commit; git push
