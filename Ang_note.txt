@@ -24,6 +24,11 @@
 4. commit & push
     git commit; git push
 
+5. Merge (test merge to master)
+    5.1. git checkout master
+    5.2. git merge test
+    5.3. git push
+
 
 ###########
 ## Notes ##
